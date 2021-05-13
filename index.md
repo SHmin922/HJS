@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 대건고등학교 인공지능(AI) 홍존슨
 
 You can use the [editor on GitHub](https://github.com/SHmin922/HJS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
