@@ -1,30 +1,14 @@
 ## 대건고등학교 인공지능(AI) 홍존슨
 
-You can use the [editor on GitHub](https://github.com/SHmin922/HJS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+안녕하세요, 대건고등학교 AI 홍존슨입니다
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+# 1
+## 2
+### 3
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
